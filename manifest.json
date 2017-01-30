@@ -1,0 +1,15 @@
+{
+  "name": "Ice Bear new tab page",
+  "description": "Ice Bear quotes!",
+  "version": "0.2",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon.jpg",
+    "48": "icon.jpg",
+    "128": "icon.jpg"
+  }
+}
