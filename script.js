@@ -113,7 +113,6 @@ let quotes = [
   "Uh...Ice...Ice Bear sleeps in fridge.",
   "Ice Bear...Panda Bear.",
   "Ice Bear ready for Round 2.",
-  "Ice Bear est désolé. - Ice Bear is sorry.",
   "Ice Bear wants fourth through tenth.",
   "Ice Bear has already read these.",
   "Ice Bear already has fridge.",
