@@ -133,13 +133,8 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
 }
 
-function getQuote() {
-  document.getElementById('quote').innerHTML = quotes[getRandomInt(0, quotes.length-1)];
-}
-
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelector('button').addEventListener('click', getQuote);
-  getQuote();
+  document.getElementById('quote').innerHTML = quotes[getRandomInt(0, quotes.length-1)];
 });
 
 
