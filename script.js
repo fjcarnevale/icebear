@@ -1,5 +1,5 @@
 let quotes = [
-  "Ice Bear meant to do that. ",
+  "Ice Bear meant to do that.",
   "Ice Bear wants justice.",
   "Ice Bear has a conspiracy theory.",
   "Ice Bear wants lattè.",
@@ -13,7 +13,6 @@ let quotes = [
   "Ice Bear has been sleeping for 15 minutes.",
   "Don't ditch Ice Bear.",
   "Ice Bear is tired of staring at this guy's butt.",
-  "Goodbye, cruel world.",
   "Ice Bear regrets eating that.",
   "Ice Bear knows.",
   "Ice Bear is in.",
@@ -24,7 +23,7 @@ let quotes = [
   "Ice Bear settled that out of court.",
   "Bears are smart. Congratulations, bear.",
   "Ice Bear feels shame.",
-  "Ice Bear will share his secrets. About other bears, mostly. ",
+  "Ice Bear will share his secrets. About other bears, mostly.",
   "Ice Bear going to fill stomach like piñata.",
   "Ice Bear requires booster seat.",
   "Ice Bear would've been less charming.",
@@ -63,8 +62,6 @@ let quotes = [
   "Go for their legs.",
   "Ice Bear will make everyone know that.",
   "Ice Bear can make Chloe look like a grandma.",
-  "Meet Chloe. She's very old.",
-  "Chloe's going to biochemistry at 11 AM.",
   "Ice Bear woke up like this, but why?",
   "Ice Bear hates sharing.",
   "Ice Bear wouldn't show that off.",
@@ -107,7 +104,6 @@ let quotes = [
   "Ice Bear respects your attempt.",
   "Ice Bear suggests we bail.",
   "You stopped rowing, canoe started spinning.",
-  "What will you do in France?",
   "Ice Bear's got this.",
   "Ice Bear ready, ahem, Panda ready to make good impression.",
   "Uh...Ice...Ice Bear sleeps in fridge.",
@@ -124,7 +120,7 @@ let quotes = [
   "Ice Bear had more fun waiting in line.",
   "Ice Bear can't wait to wait in line again.",
   "Ice, Bear, actually, sweating.",
-  "Ice Bear's peace lily, now pieces "
+  "Ice Bear's peace lily, now pieces."
 ];
 
 function getRandomInt(min, max) {
